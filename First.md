@@ -11,3 +11,8 @@
 ## How to link an Url to a text 
 
 [Title](www.people.com)
+
+## How to create a table
+| User | Pod Name | xrV1 | xrV2 | xrvV3 |
+|------|----------|------|------|-------|
+| usr1 | po1 | a.b.c.d | x.y.z.1 | w.e.r.t |
